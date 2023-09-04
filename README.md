@@ -1,2 +1,3 @@
-# pages-dungeons-and-dragons
+# Dungeons and Dragons
+
 A website about Dungeons &amp; Dragons
